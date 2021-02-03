@@ -4,7 +4,8 @@ namespace SaludosApp
 	{
 		public void Exe()
 		{
-			Console.WriteLine("Soy un pato"):
+			Console.WriteLine("Soy un pato");
+			Console.WriteLine("Siempre lo sospeche");
 			
 		}		
 	}	
