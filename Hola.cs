@@ -9,6 +9,7 @@ namespace SaludosApp
 			Console.WriteLine("Bien");
 			Console.WriteLine("Estupendo");
 			Console.WriteLine("Y tu?");
+			Console.WriteLine("Pues genial tio");
         }
     }
 }
